@@ -1,25 +1,25 @@
 {
-  "name": "flexboxgrid",
-  "version": "6.1.1",
-  "homepage": "https://github.com/kristoferjoseph/flexboxgrid",
+  "name": "flexboxgrid-sass",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tduarte/flexboxgrid-sass",
   "authors": [
     "@dam"
   ],
   "description": "Grid based on the flex display property.",
-  "main": "dist/flexboxgrid.css",
+  "main": "source/sass/flexboxgrid.scss",
   "keywords": [
     "browser",
     "flexbox",
     "grid",
-    "css"
+    "sass"
   ],
   "license": "Apache 2",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
-    "test",
-    "tests"
+    "test*",
+    "tests*"
   ],
   "dependencies": {}
 }
